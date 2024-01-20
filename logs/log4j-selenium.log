@@ -1,0 +1,82 @@
+2024-01-19 19:47:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-01-19 19:48:07 INFO  EmailManager:66 - Step2> Attaching report files & error screenshots ...
+2024-01-19 19:48:07 INFO  EmailManager:70 - Step3> Sending email in progress...
+2024-01-19 19:48:10 INFO  EmailManager:72 - Step4> Sending email complete...
+2024-01-19 19:48:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2a22ad2b: 0 ms
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+
+2024-01-19 19:49:19 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-01-19 19:49:29 INFO  EmailManager:66 - Step2> Attaching report files & error screenshots ...
+2024-01-19 19:49:29 INFO  EmailManager:70 - Step3> Sending email in progress...
+2024-01-19 19:49:31 INFO  EmailManager:72 - Step4> Sending email complete...
+2024-01-19 19:49:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@540dbda9: 0 ms
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+
+
+2024-01-19 20:02:02 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-01-19 20:02:15 INFO  EmailManager:66 - Step2> Attaching report files & error screenshots ...
+2024-01-19 20:02:15 INFO  EmailManager:70 - Step3> Sending email in progress...
+2024-01-19 20:02:17 INFO  EmailManager:72 - Step4> Sending email complete...
+2024-01-19 20:02:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a7d1b47: 0 ms
+
+
+
+
